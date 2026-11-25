@@ -51,6 +51,6 @@ MIT.
 
 ## Related
 
-- [color-contrast-checker](https://github.com/0xelitesystem/color-contrast-checker)
+- [wcag-contrast-ratio-check](https://github.com/0xelitesystem/wcag-contrast-ratio-check)
 - [color-format-converter](https://github.com/0xelitesystem/color-format-converter)
-- [gradient-generator](https://github.com/0xelitesystem/gradient-generator)
+- [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer)
