@@ -52,5 +52,5 @@ MIT.
 ## Related
 
 - [wcag-contrast-ratio-check](https://github.com/0xelitesystem/wcag-contrast-ratio-check)
-- [color-format-converter](https://github.com/0xelitesystem/color-format-converter)
+- [hex-rgb-hsl-hsv-converter](https://github.com/0xelitesystem/hex-rgb-hsl-hsv-converter)
 - [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer)
